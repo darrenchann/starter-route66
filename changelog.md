@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.5.0] - 2017-09-28
+### Added
+- Mush.php in subfolder echo of controllers (Lenic)
+
 ## [1.4.0] - 2017-09-28
 ### Added
 - Force.php in subfolder delta of controllers (Judy Zhu)
