@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends Application
+class Charlie extends Application
 {
 
 	function __construct()
@@ -12,8 +12,9 @@ class Welcome extends Application
 	/**
 	 * Homepage for our app
 	 */
-	public function index()
-	{		
+	public function brown()
+	{
+		
 		$this->show(3);
 	}
 
