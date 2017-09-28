@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Welcome.php in subfolder Charlie/brown of controllers (Lenic)
 
+### Changed
+- Change to use subcontroller
+
 ## [1.2.0] - 2017-09-28
 ### Added
 - Welcome.php in subfolder Bravo of controllers (Darren Chan)
