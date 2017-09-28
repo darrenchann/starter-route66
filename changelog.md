@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.1.0] - 2017-09-28
+
+###Added
+- Welcome.php in subfolder Bravo of controllers (Darren Chan)
+
 ## [1.0.0] - 2017-09-28
 ### Added
 - changelog
