@@ -6,9 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.10.0] - 2017-09-28
+### Added
+- Juliet.php routes to json object on page (Judy Zhu)
+
 ## [1.9.0] - 2017-09-28
 ### Added
-- added India.php routes to logo.png on page (Darren Chan)
+- India.php routes to logo.png on page (Darren Chan)
 
 ## [1.8.0] - 2017-09-28
 ### Added
