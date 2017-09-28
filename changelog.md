@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.9.0] - 2017-09-28
+### Added
+- added India.php routes to logo.png on page (Darren Chan)
+
 ## [1.8.0] - 2017-09-28
 ### Added
 - Routing rule to routes.php under config folder (Lenic)
