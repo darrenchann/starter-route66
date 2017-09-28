@@ -6,20 +6,24 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.4.0] - 2017-09-28
+### Added
+- Force.php in subfolder delta of controllers (Judy Zhu)
+
 ## [1.3.0] - 2017-09-28
 ### Added
-- Welcome.php in subfolder Charlie/brown of controllers (Lenic)
+- brown() method of Charlie.php in controllers (Lenic)
 
 ### Changed
 - Change to use subcontroller
 
 ## [1.2.0] - 2017-09-28
 ### Added
-- Welcome.php in subfolder Bravo of controllers (Darren Chan)
+- Welcome.php in subfolder bravo of controllers (Darren Chan)
 
 ## [1.1.0] - 2017-09-28
 ### Added 
-- Able.php in controller (Judy Zhu)
+- Able.php in controllers (Judy Zhu)
 
 ## [1.0.0] - 2017-09-28
 ### Added
