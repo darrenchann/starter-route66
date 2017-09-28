@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.8.0] - 2017-09-28
+### Added
+- Routing rule to routes.php under config folder (Lenic)
+
 ## [1.7.0] - 2017-09-28
 ### Added
 - Golf.php added under controllers (Judy Zhu)
